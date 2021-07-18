@@ -58,7 +58,7 @@ h2{
 }
 #web{
     border-left: 7px solid;
-    border-image: linear-gradient(rgb(230, 44, 20), rgb(209, 70, 5));
+    border-image: linear-gradient(rgb(230, 44, 20), rgb(221, 91, 30));
     border-image-slice: 1;
 }
 #development{
